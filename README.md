@@ -1,2 +1,2 @@
-# lorann
+# Lorann
 Voici le Projet Lorann.
